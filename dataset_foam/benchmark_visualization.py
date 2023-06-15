@@ -78,7 +78,7 @@ for i in range(theta_num):
     # Assign p values to the ith row of the sinogram, centered
     mysinogram[i,start:start+ith_p.shape[0]] = ith_p.reshape(-1)
 
-# Display images for radon transform
+# Display images for radon transform  -- demonstration purpose only
 
 # create figure for intermediate visualization
 rotate_fig, ax = plt.subplots(1, 3, figsize=(10, 6))
