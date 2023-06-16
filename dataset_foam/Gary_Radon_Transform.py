@@ -231,3 +231,4 @@ for img_id in range(6):
 
 # testing across machines
 
+print(torch.cuda.is_available())
