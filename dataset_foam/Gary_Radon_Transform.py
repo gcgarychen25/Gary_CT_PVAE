@@ -233,3 +233,4 @@ for img_id in range(6):
 
 print(torch.cuda.is_available())
 print('testing without PAT')
+print('final test if it all work')
