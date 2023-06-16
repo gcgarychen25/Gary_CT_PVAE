@@ -229,5 +229,5 @@ for img_id in range(6):
 #print("tf_sinogram shape", tf_sinogram.shape)
 #print("tf_sinogram dtpye", tf_sinogram.dtype)
 
-
+# testing across machines
 
